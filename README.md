@@ -22,12 +22,12 @@ This project focuses on predicting sales for BigMart outlets using regression mo
 **Normalize Features:** Scale features for better model performance.
 **Split Data:** Divide the data into training and testing sets.
 
-**Model Building**
+**2.Model Building**
 **Define Models:** Set up regression models (e.g., Linear Regression, Decision Tree, Random Forest).
 **Train Models:** Train the models on the training data.
 **Tune Hyperparameters:** Optimize model parameters for better accuracy.
 
-**Evaluation**
+**3.Evaluation**
 **Performance Metrics:** Use metrics like Mean Absolute Error (MAE) and R-squared to evaluate models.
 **Model Comparison:** Compare the performance of different models.
 
